@@ -1,0 +1,18 @@
+{
+  "store_version": 1,
+  "apps": [
+    {
+      "id": "com.aricproduction.reaceer",
+      "name": "ReaCeer",
+      "developer": "Aric Production",
+      "category": "games",
+      "description": "ReaCeer — игра от Aric Production.",
+      "version": "1.0",
+      "version_code": 1,
+      "apk_url": "",
+      "icon_url": "",
+      "banner_url": "",
+      "changelog": "Первый выпуск ReaCeer."
+    }
+  ]
+}
