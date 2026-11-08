@@ -10,8 +10,8 @@
       "version": "1.0",
       "version_code": 1,
       "apk_url": "https://github.com/ugixyz/Aric-Store/releases/download/reaceer-v1.0/ReaCeer.apk",
-      "icon_url": "",
-      "banner_url": "",
+"icon_url": "https://raw.githubusercontent.com/ugixyz/Aric-Store/main/images/reaceer_icon.png",
+"banner_url": "https://raw.githubusercontent.com/ugixyz/Aric-Store/main/images/reaceer_banner.png"
       "changelog": "Первый выпуск ReaCeer."
     }
   ]
