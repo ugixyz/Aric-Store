@@ -1,6 +1,6 @@
 {
-  "version_code": 2,
-  "version": "1.1",
-  "apk_url": "https://github.com/ugixyz/Aric-Store/releases/download/aricstore-v1.1/AricStore.apk",
-  "changelog": "улучшение интерфейса и исправление ошибок"
+  "version_code": 3,
+  "version_name": "1.2",
+  "apk_url": "https://github.com/ugixyz/Aric-Store/releases/download/aricstore-v1.2/AricStore.apk",
+  "changelog": "Улучшен интерфейс, добавлены анимации и система обновлений."
 }
