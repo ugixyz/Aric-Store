@@ -11,7 +11,7 @@
       "version": "1.0",
       "version_code": 1,
       "released_at": "2026-11-09",
-      "min_android": "7",
+      "min_android": "От 7 и более",
       "supported_abis": null,
       "min_ram_mb": null,
       "apk_size_bytes": null,
