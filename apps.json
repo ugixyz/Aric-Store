@@ -1,4 +1,3 @@
-
 {
   "store_version": 1,
   "apps": [
@@ -12,9 +11,9 @@
       "version_code": 1,
       "released_at": "2026-11-09",
       "min_android": "От 7 и более",
-      "supported_abis": "ARM64",
-      "min_ram_mb": "1000",
-      "apk_size_bytes": "10695475",
+      "supported_abis": "",
+      "min_ram_mb": null,
+      "apk_size_bytes": null,
       "apk_url": "https://github.com/ugixyz/Aric-Store/releases/download/reaceer-v1.0/ReaCeer.apk",
       "sha256": "92e1230b84f9f05ab7ba575d7d76fe7caba749ade5855a28be64f8d49067b8f4",
       "icon_url": "https://raw.githubusercontent.com/ugixyz/Aric-Store/main/images/reaceer_icon.png",
@@ -37,6 +36,24 @@
       "apk_url": "",
       "icon_url": "https://raw.githubusercontent.com/ugixyz/Aric-Store/main/images/qlauncher_icon.png",
       "banner_url": "https://raw.githubusercontent.com/ugixyz/Aric-Store/main/images/qlauncher_banner.png",
+      "changelog": ""
+    },
+    {
+      "id": "com.aricproduction.hetwer",
+      "name": "HetWer",
+      "developer": "Aric Production",
+      "category": "games",
+      "description": "HetWer — игра от Aric Production.",
+      "version": "Скоро выйдет",
+      "version_code": 0,
+      "min_android": "Не указано",
+      "supported_abis": "",
+      "min_ram_mb": null,
+      "apk_size_bytes": null,
+      "apk_url": "",
+      "sha256": "",
+      "icon_url": "",
+      "banner_url": "",
       "changelog": ""
     }
   ]
