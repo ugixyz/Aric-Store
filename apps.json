@@ -43,19 +43,19 @@
       "name": "HetWer",
       "developer": "Aric Production",
       "category": "games",
-      "description": "HetWer — игра от Aric Production.",
+      "description": "HetWer — забавная игра - кликер с многими забавными функциями.",
       "version": "2.0.2",
       "version_code": 2,
       "min_android": "От 7 и более",
       "supported_abis": "",
-      "min_ram_mb": null,
-      "apk_size_bytes": null,
+      "min_ram_mb": "1000",
+      "apk_size_bytes": "6396313",
       "apk_url": "https://github.com/ugixyz/Aric-Store/releases/download/hetwer-v1.0/HetWer.apk",
       "sha256": "",
       "icon_url": "https://raw.githubusercontent.com/ugixyz/Aric-Store/main/images/hetwer_icon.png",
       "banner_url": "",
       "changelog": "",
-      "released_at": "2026-11-16"
+      "released_at": "2026-11-15"
     }
   ]
 }
