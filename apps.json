@@ -52,7 +52,7 @@
       "apk_size_bytes": null,
       "apk_url": "https://github.com/ugixyz/Aric-Store/releases/download/hetwer-v1.0/HetWer.apk",
       "sha256": "",
-      "icon_url": "",
+      "icon_url": "https://raw.githubusercontent.com/ugixyz/Aric-Store/main/images/hetwer_icon.png",
       "banner_url": "",
       "changelog": "",
       "released_at": "2026-11-16"
