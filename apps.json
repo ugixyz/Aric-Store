@@ -46,7 +46,7 @@
       "description": "HetWer — игра от Aric Production.",
       "version": "2.0.2",
       "version_code": 2,
-      "min_android": "Не указано",
+      "min_android": "От 7 и более",
       "supported_abis": "",
       "min_ram_mb": null,
       "apk_size_bytes": null,
