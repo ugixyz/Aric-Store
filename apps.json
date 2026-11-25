@@ -67,7 +67,7 @@
   "version_code": "1",
   "min_android": "От 7 и более",
   "supported_abis": "ARM64",
-  "min_ram_mb": "1",
+  "min_ram_mb": "0500",
   "apk_size_bytes": "1090519",
   "apk_url": "https://github.com/ugixyz/Aric-Store/releases/download/aripetals-v1.0/AriPetals.apk",
   "sha256": "FD697A143ABFEF60C0942B5B78330B5C5964933B0A10DF75B8F5D70335848C39",
