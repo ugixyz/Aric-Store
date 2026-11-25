@@ -72,7 +72,7 @@
   "apk_url": "https://github.com/ugixyz/Aric-Store/releases/download/aripetals-v1.0/AriPetals.apk",
   "sha256": "FD697A143ABFEF60C0942B5B78330B5C5964933B0A10DF75B8F5D70335848C39",
   "icon_url": "https://raw.githubusercontent.com/ugixyz/Aric-Store/main/images/ic_aripetals.png",
-  "banner_url": "",
+"banner_url": "https://raw.githubusercontent.com/ugixyz/Aric-Store/main/images/aripetals_banner.png",
   "changelog": "",
       "screenshots": []
     }
