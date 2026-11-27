@@ -70,7 +70,7 @@
   "min_ram_mb": "0500",
   "apk_size_bytes": "1090519",
   "apk_url": "https://github.com/ugixyz/Aric-Store/releases/download/aripetals-v1.1/AriPetals1.apk",
-  "sha256: "5bcdc3ea6a244c9fc3013d2370fdc300f3ffd1b912e3cc59226d5c33ebf74b9c",
+  "sha256": "5bcdc3ea6a244c9fc3013d2370fdc300f3ffd1b912e3cc59226d5c33ebf74b9c",
   "icon_url": "https://raw.githubusercontent.com/ugixyz/Aric-Store/main/images/ic_aripetals.png",
   "banner_url": "https://raw.githubusercontent.com/ugixyz/Aric-Store/main/images/aripetals_banner.png",
   "changelog": "Добавлена форма Pill",
