@@ -75,6 +75,25 @@
   "banner_url": "https://raw.githubusercontent.com/ugixyz/Aric-Store/main/images/aripetals_banner.png",
   "changelog": "",
       "screenshots": []
-    }
+    },
+{
+  "id": "com.aricproduction.cowar",
+  "name": "CoWar",
+  "developer": "Aric Production",
+  "category": "games",
+  "description": "CoWar — пошаговая стратегия на шестиугольной карте. Захватывай территории, развивай базу, добывай ресурсы, управляй войсками и техникой. Сражайся с ботами или другими игроками в сетевом режиме.",
+  "version": "1.0",
+  "version_code": 1,
+  "min_android": "От 11 и более",
+  "supported_abis": "",
+  "min_ram_mb": null,
+  "apk_size_bytes": null,
+  "apk_url": "https://github.com/ugixyz/Aric-Store/releases/download/cowar-v1.0/CoWar.apk",
+  "sha256": "",
+  "icon_url": "",
+  "banner_url": "",
+  "changelog": "Первый релиз CoWar.",
+  "screenshots": []
+}
   ]
 }
