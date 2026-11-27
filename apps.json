@@ -87,11 +87,11 @@
   "min_android": "От 11 и более",
   "supported_abis": "",
   "min_ram_mb": null,
-  "apk_size_bytes": null,
+  "apk_size_bytes": "15104463",
   "apk_url": "https://github.com/ugixyz/Aric-Store/releases/download/cowar-v1.0/CoWar.apk",
-  "sha256": "",
-  "icon_url": "",
-  "banner_url": "",
+  "sha256": "C658513FCEB8212EA08A1D5E2B826CF2E536436A526A0DE10CE3024B129AD7CE",
+ "icon_url": "https://raw.githubusercontent.com/ugixyz/Aric-Store/main/images/cowar_icon.png",
+ "banner_url": "https://raw.githubusercontent.com/ugixyz/Aric-Store/main/images/cowar_banner.png",
   "changelog": "Первый релиз CoWar.",
   "screenshots": []
 }
